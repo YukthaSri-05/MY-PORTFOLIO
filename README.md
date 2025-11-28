@@ -7,7 +7,7 @@ export const chosenTheme = purpleTheme;
    Website Settings
 ------------------------------------------- */
 const settings = {
-  isSplash: true,         // Set false if you want to remove splash animation
+  isSplash: true, // Set false if you want to remove splash animation
 };
 
 export { settings };
@@ -137,7 +137,9 @@ const degrees = {
       subtitle: "MPC Stream",
       duration: "2021 – 2023",
       cgpa: "89.8%",
-      descriptions: ["⚡ Completed intermediate with strong academic performance."],
+      descriptions: [
+        "⚡ Completed intermediate with strong academic performance.",
+      ],
     },
     {
       title: "Sasi English Medium School",
